@@ -13,7 +13,6 @@ public class Sum3and5Challenge {
                     break;
                 }
 
-
             }
 
         }
