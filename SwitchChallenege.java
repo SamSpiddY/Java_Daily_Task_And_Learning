@@ -1,7 +1,7 @@
 public class SwitchChallenege {
     public static void main(String[] args) {
         char NATO = 'E';
-
+//Old type switch case
         switch (NATO){
             case 'A':
                 System.out.println(NATO + " = Able");
