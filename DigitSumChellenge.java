@@ -4,7 +4,7 @@ public class DigitSumChellenge {
         System.out.println("The Sum of the given number is " + sumDigit(1111111));
 
     }
-
+//Method with paramitter
     public static int sumDigit(int number){
         if(number < 0){
             return -1;
