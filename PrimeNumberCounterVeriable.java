@@ -3,6 +3,7 @@ public class PrimeNumberCounterVeriable {
         finder(10);
 
     }
+    //Method with paramitter
     public static void finder(int insidePrimeNumber){
         int count = 0;
 
